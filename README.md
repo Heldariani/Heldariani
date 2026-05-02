@@ -1,4 +1,4 @@
-# 👋 Halo, saya Helda Riani!
+# 👋 Halo, saya Heldariani!
 
 🎓 Mahasiswa Ilmu Perpustakaan dan Informasi Islam  
 📚 Tertarik pada dunia literasi digital, perpustakaan, dan teknologi informasi  
