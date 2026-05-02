@@ -11,20 +11,9 @@ Saya adalah seorang mahasiswa yang memiliki minat besar dalam pengembangan perpu
 
 ---
 
-## 🔍 Minat & Fokus
-- 📖 Literasi Digital
-- 🏫 Manajemen Perpustakaan
-- 💻 Perpustakaan Digital (SLiMS, e-Library)
-- 📊 Penelitian Akademik
-- 🧠 Integrasi Ilmu & Teknologi
-
----
-
 ## 🛠️ Tools & Teknologi
 - 💻 Microsoft Office (Word, Excel, PowerPoint)
-- 📚 SLiMS (Senayan Library Management System)
-- 🌐 Git & GitHub
-- 📝 Mendeley / Zotero
+- 📝 Zotero
 - 🎨 Canva
 
 ---
